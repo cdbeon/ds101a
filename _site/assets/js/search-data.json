@@ -1,0 +1,184 @@
+{"0": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
+    "url": "/ds101/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"1": {
+    "doc": "Home / Schedule",
+    "title": "Data Science 101A: Fundamentals of Data Science Programming",
+    "content": "CAP Institute, Spring 2025 . ",
+    "url": "/ds101/#data-science-101a-fundamentals-of-data-science-programming",
+    
+    "relUrl": "/#data-science-101a-fundamentals-of-data-science-programming"
+  },"2": {
+    "doc": "Home / Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "/ds101/#schedule",
+    
+    "relUrl": "/#schedule"
+  },"3": {
+    "doc": "Home / Schedule",
+    "title": "Unit 1 - Fundamental Programming Principles in Python",
+    "content": "Feb 6 Lecture 1Course Introduction, Computing with Jupyter and Python Slides • Demo Homework 1Getting Comfortable with Python (Due Feb 2) Feb 13 Lecture 2Conditional Statements &amp; Iteration Slides • Demo Homework 2Now We’re Programming With Python! (Due Feb 19) Feb 20 Lecture 3Data Types &amp; Structures Slides • Demo Homework 3Fantastic Containers and How to Use Them (Due Feb 26) Feb 27 Lecture 4Object-oriented Programming Slides • Demo Homework 4Wait, It’s All Objects? (Due Mar 5) ",
+    "url": "/ds101/#unit-1-fundamental-programming-principles-in-python",
+    
+    "relUrl": "/#unit-1-fundamental-programming-principles-in-python"
+  },"4": {
+    "doc": "Home / Schedule",
+    "title": "Unit 2 - Dataset Manipulation and Analysis using Pandas",
+    "content": "Mar 6 Lecture 5Introduction to Pandas I Slides • Demo Homework 5On the Subject of Tabular Data (Due Mar 12) Mar 13 Lecture 6Introduction to Pandas II Slides • Demo Homework 6 (Due Mar 19) Mar 20 Lecture 7Data Cleaning &amp; Exploratory Data Analysis (EDA) Slides • Demo Homework 7 (Due Mar 26) Mar 27 No Class - Spring Break ",
+    "url": "/ds101/#unit-2-dataset-manipulation-and-analysis-using-pandas",
+    
+    "relUrl": "/#unit-2-dataset-manipulation-and-analysis-using-pandas"
+  },"5": {
+    "doc": "Home / Schedule",
+    "title": "Unit 3 - Visualizing Data",
+    "content": "Apr 3 Lecture 8Visualization I Slides • Demo Homework 8 (Due Apr 9) Apr 10 Lecture 9Visualization II Slides • Demo Homework 9 (Due Apr 16) ",
+    "url": "/ds101/#unit-3-visualizing-data",
+    
+    "relUrl": "/#unit-3-visualizing-data"
+  },"6": {
+    "doc": "Home / Schedule",
+    "title": "Unit 4 - Statistics and Inference",
+    "content": "Apr 17 Lecture 10Descriptive Statistics Slides • Demo Homework 10 (Due Apr 23) Apr 24 Lecture 11Probability Slides • Demo Homework 11 (Due Apr 30) May 1 Lecture 12Inference I Slides • Demo Homework 12 (Due May 14) May 8 No Class - AP Exam Week May 15 Lecture 13Inference II Slides • Demo Homework 13 (Due May 21) ",
+    "url": "/ds101/#unit-4-statistics-and-inference",
+    
+    "relUrl": "/#unit-4-statistics-and-inference"
+  },"7": {
+    "doc": "Home / Schedule",
+    "title": "Unit 5 - Additional Topics",
+    "content": "May 22 Lecture 14Additional Topics I Slides • Demo Final Project Assignment Released (Due May 30) May 29 Lecture 15Additional Topics II Slides • Demo ",
+    "url": "/ds101/#unit-5-additional-topics",
+    
+    "relUrl": "/#unit-5-additional-topics"
+  },"8": {
+    "doc": "Home / Schedule",
+    "title": "Home / Schedule",
+    "content": " ",
+    "url": "/ds101/",
+    
+    "relUrl": "/"
+  },"9": {
+    "doc": "Schedule",
+    "title": "Weekly Schedule",
+    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "/ds101/schedule/#weekly-schedule",
+    
+    "relUrl": "/schedule/#weekly-schedule"
+  },"10": {
+    "doc": "Schedule",
+    "title": "Monday",
+    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
+    "url": "/ds101/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"11": {
+    "doc": "Schedule",
+    "title": "Tuesday",
+    "content": "| ",
+    "url": "/ds101/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"12": {
+    "doc": "Schedule",
+    "title": "Wednesday",
+    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
+    "url": "/ds101/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"13": {
+    "doc": "Schedule",
+    "title": "Thursday",
+    "content": "| ",
+    "url": "/ds101/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"14": {
+    "doc": "Schedule",
+    "title": "Friday",
+    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | . ",
+    "url": "/ds101/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"15": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "/ds101/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"16": {
+    "doc": "Syllabus",
+    "title": "Syllabus",
+    "content": "This syllabus is a living document, meaning that it can be updated at any time throughout the course. Check back periodically to see any changes that have been made to the course. Last Updated: February 2, 2025 . ",
+    "url": "/ds101/syllabus/",
+    
+    "relUrl": "/syllabus/"
+  },"17": {
+    "doc": "Syllabus",
+    "title": "Table of contents",
+    "content": ". | Instructor | About DS 101A? | About DS 101B | Course Components . | Lecture | Office Hours | Homework | Final Project | . | Course Grading | Advancing to DS 101B | Resources | Additional Policies and Notes . | Late Policy | Academic Integrity and Collaboration Policy | Wellness Policy | Course Flexibility | . | . ",
+    "url": "/ds101/syllabus/#table-of-contents",
+    
+    "relUrl": "/syllabus/#table-of-contents"
+  },"18": {
+    "doc": "Syllabus",
+    "title": "Instructor",
+    "content": "Chandler Beon . chandlerbeon@gmail.com . Hi! My name is Chandler and I'll be your instructor for the course. I'm currently a first-year PhD student at the University of California, Los Angeles studying Medical Informatics (tl;dr: developing AI for medical purposes). I graduated from the University of California, Berkeley in 2022 with a double major in Data Science (w/ a concentration in Computational Biology) and Molecular &amp; Cell Biology. I have taught a few university-level courses before, but the one I am the most familiar with (and have extensively taught over the course of 2 years) is Introduction to Probability and Statistics in Biology and Public Health (search up PH142 @ Berkeley if you're interested). Looking forward to the semester! . ",
+    "url": "/ds101/syllabus/#instructor",
+    
+    "relUrl": "/syllabus/#instructor"
+  },"19": {
+    "doc": "Syllabus",
+    "title": "About DS 101A?",
+    "content": "Data Science (DS) 101A is the first course of a two-part series that teaches the foundations of conducting an independent research project using data science applications. DS 101A, which spans over the course of 15 weeks, covers a combination of basic coding principles and skills required to explore and analyze datasets. Students will learn how to use a dataset to conduct exploratory data analysis and create visualizations to help convey their results to a proper audience. Below are the main units covered throughout the course and their learning objectives. After each unit, students will be able to: . | Unit 1: Basic Programming Principles in Python . | Understand Python syntax | Create user-defined functions to solve specific problems | Create a custom class object to structurer an entity | Become comfortable with working in a Jupyter environment | . | Unit 2: Dataset Analysis and Manipulation using Pandas . | Read in a dataset into a Pandas dataframe | Select columns and filter rows in a dataframe | Calculate aggregate statistics | Clean the dataset via manipulation | . | Unit 3: Creating Visualizations . | Create simple (sub)plots from a Pandas dataframe | Customize the plots with proper labels and titles | Select the proper visualization for a specific question | . | Unit 4: Statistics and Inference . | Describe the dataset using statistical terms | Understand the difference between parametric and non-parametric tests | Conduct hypothesis testing with one-sample and two-sample datasets | Select the proper test to use depending on the question | . | . Please note that this class is modeled similarly to a university-level course, meaning that the pace may be faster than what students are normally used to. ",
+    "url": "/ds101/syllabus/#about-ds-101a",
+    
+    "relUrl": "/syllabus/#about-ds-101a"
+  },"20": {
+    "doc": "Syllabus",
+    "title": "About DS 101B",
+    "content": "Data Science 101B: Research with Data Science, the second part of the course, will cover fundamentals of conducting an independent research project. This course will be offered during Summer/Fall 2025. Some of the topics that will be covered include creating a research proposal, conducting a literature review, and understanding the anatomy of an academic paper. Unlike DS 101A, DS 101B is has an emphasis on independent work and will require more effort from the student to meet assignment deadlines. A more comprehensive syllabus of the course will be released closer to the start of its offering date. The course will be offered in the summer/fall of 2025. ",
+    "url": "/ds101/syllabus/#about-ds-101b",
+    
+    "relUrl": "/syllabus/#about-ds-101b"
+  },"21": {
+    "doc": "Syllabus",
+    "title": "Course Components",
+    "content": "Lecture . There will be a synchronous, online weekly lecture every Thursday from 8:00 – 9:30 PM PT. Please refer to the course calendar for dates and additional details. Lecture is mandatory, and students are expected to attend every week. If a student has three unexcused absences, they will be automatically dropped from the course. If you have a concern about not being able to make a future lecture due to prior engagements or are facing an emergency situation, please contact the instructor as soon as possible. Office Hours . Office hours are dedicated sessions where students can ask questions or request additional help from instructors. Although office hours are optional, they are highly recommended if you require any additional help with any of the content or assignments. Dedicated office hours are weekly on Wednesday from 8:00 – 9:30 PM PT. If you cannot make this time, please contact the instructor to schedule an alternative time. Homework . Homeworks are week-long assignments that are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lecture. Homeworks will be graded on a completion-basis, meaning that students will receive credit as long as they complete the entirety of the assignment with ample effort. Homework solutions will be posted shortly after the following lecture. Assignments will be released promptly after lecture and are due by 11:59 PM PT on Wednesday of the following week, unless otherwise stated. Deadlines are subject to change. Final Project . For Data Science 101A, there will be a final project towards the end of the semester. This project is meant to be a culmination of everything that was covered in Data Science 101A, in lieu of exams. Details of the final project will be released at a later date. ",
+    "url": "/ds101/syllabus/#course-components",
+    
+    "relUrl": "/syllabus/#course-components"
+  },"22": {
+    "doc": "Syllabus",
+    "title": "Course Grading",
+    "content": "The grading criteria for the course is as follows: . | Criterion | Grading | . | Lecture Attendance | 50% | . | Lecture Participation | 10% | . | Homework Assignment | 15% | . | Final Project | 25% | . ",
+    "url": "/ds101/syllabus/#course-grading",
+    
+    "relUrl": "/syllabus/#course-grading"
+  },"23": {
+    "doc": "Syllabus",
+    "title": "Advancing to DS 101B",
+    "content": "Data 101A has a grading system to ensure that students are keeping up with the course material. Students are required to at least score a 75% or higher in order to advance to DS 101B. The instruction has the final discretion as to whether or not a student qualifies to advance to DS 101B. ",
+    "url": "/ds101/syllabus/#advancing-to-ds-101b",
+    
+    "relUrl": "/syllabus/#advancing-to-ds-101b"
+  },"24": {
+    "doc": "Syllabus",
+    "title": "Resources",
+    "content": "Resources will be provided as the course progresses. If you want to get ahead, I highly recommend looking through UC Berkeley’s Data 8 course. Data 8 uses their own Python library called datascience that’s meant to be a more intro-friendly way to introduce students to coding. We will not be using this library. Instead, we will be using current industry-standard libraries that will be more relevant and compatible with other libraries (e.g. visualization libraries such as matplotlib or seaborn). ",
+    "url": "/ds101/syllabus/#resources",
+    
+    "relUrl": "/syllabus/#resources"
+  },"25": {
+    "doc": "Syllabus",
+    "title": "Additional Policies and Notes",
+    "content": "Late Policy . Late work will not be accepted under any circumstances. Please make sure to start assignments as early as possible to avoid any last-minute submissions. Academic Integrity and Collaboration Policy . Collaboration is heavily encouraged in research to promote sharing ideas and perspectives. However, when it comes to learning, there is a fine line between collaboration and cheating. You are encouraged to talk to other classmates about methods to solutions, but sharing code and answers is considered academic misconduct. Evidence of academic misconduct will result in immediate removal from the course. Please make sure your solutions are your own – besides, the best way to learn something is to go through the whole mile of understanding and learning! . Wellness Policy . Understandably, juggling this course and your many other responsibilities can get overwhelming. If you ever feel like you are struggling to keep up, please contact the instructor as soon as possible! We want you to succeed and move on to DS 101B so that you can have something substantial when you apply for college 😊 . Course Flexibility . Please be advised that this is the first iteration of the course, meaning that there’s a lot of changes that can happen throughout the semester. I will do my best to plan everything ahead, but I appreciate your understanding if there are any last-minute changes. I will also do my best to communicate any changes well ahead in time! . ",
+    "url": "/ds101/syllabus/#additional-policies-and-notes",
+    
+    "relUrl": "/syllabus/#additional-policies-and-notes"
+  }
+}
