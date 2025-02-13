@@ -1,7 +1,7 @@
 ---
 name: Chandler Beon
 role: Instructor
-email: chandlerbeon@gmail.com
+email: cap4dsresearch101@gmail.com
 photo: profile.jpg
 ---
 
