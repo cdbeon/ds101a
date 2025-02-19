@@ -10,7 +10,7 @@ Feb 12
 : **Survey**{:.label .label-purple}[Beginning-of-Semester Survey](https://forms.gle/R9Nag4gkHaPAMt5i7?authuser=0)
 
 Feb 19
-: **Lecture 2**{: .label .label-blue }Conditional Statements & Iteration
+: **Lecture 2**{: .label .label-blue }[Conditional Statements & Iteration](https://docs.google.com/presentation/d/1qRNsC3bZXEg3-FO3azoQYD5OVhB5trcUj0cRx47rFdo/edit?usp=sharing)
   : Demo
 : **Homework 2**{: .label .label-red }Now We're Programming With Python! (Due Feb 25)
 
