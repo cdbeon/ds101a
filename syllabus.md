@@ -12,7 +12,7 @@ description: >-
 {: .note }
 > This syllabus is a living document, meaning that it can be updated at any time throughout the course. Check back periodically to see any changes that have been made to the course.
 > 
-> <i> Last Updated: February 12, 2025</i>
+> <i> Last Updated: February 19, 2025</i>
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -72,14 +72,14 @@ A more comprehensive syllabus of the course will be released closer to the start
 
 ### Lecture
 
-There will be a synchronous, online weekly lecture every Wednesday from 8:00 – 9:30 PM PT. Please refer to the course schedule for dates and additional details.
+There will be a synchronous, online weekly lecture every Wednesday from 8:00–9:30 PM PT. Please refer to the course schedule for dates and additional details.
 
 Lecture is mandatory, and students are expected to attend every week. <b><u>If a student has three unexcused absences, they will be automatically dropped from the course.</u></b> If you have a concern about not being able to make a future lecture due to prior engagements or are facing an emergency situation, please contact the instructor as soon as possible. 
 
 ### Office Hours
 Office hours are dedicated sessions where students can ask questions or request additional help from instructors. Although office hours are optional, they are highly recommended if you require any additional help with any of the content or assignments.
 
-Dedicated office hours are weekly and TBD. If you cannot make office hours during the allotted session, please contact the instructor to schedule an alternative time.
+Dedicated office hours will be held weekly on Tuesdays, from 9:00-10:00 PM PT. If you cannot make office hours during the allotted session, please contact the instructor to schedule an alternative time.
 
 ### Homework
 Homeworks are week-long assignments that are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lecture. Homeworks will be graded on a completion-basis, meaning that students will receive credit as long as they complete the entirety of the assignment with ample effort. Homework solutions will be posted shortly after the following lecture.
