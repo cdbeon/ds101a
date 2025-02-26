@@ -15,9 +15,9 @@ Feb 19
 : **Homework 2**{: .label .label-red }[Now We're Programming With Python!](https://classroom.google.com/c/NzM3NzE3NTcyNTE0/a/NzQ5OTk1MTAxMjA0/details) (Due Feb 25)
 
 Feb 26
-: **Lecture 3**{: .label .label-blue }Data Types & Structures
-  : Demo
-: **Homework 3**{: .label .label-red }Fantastic Containers and How to Use Them (Due Mar 4)
+: **Lecture 3**{: .label .label-blue }[Data Types & Structures](https://docs.google.com/presentation/d/1qvW4OYhnJ07ERm34bzdJZvgworE1J52qLt2-WjXeRuo/edit?usp=sharing)
+  : [Demo](https://drive.google.com/file/d/1iefXi7u5mhyxfZ3lF2eqbqDavaDohjcD/view?usp=sharing)
+: **Homework 3**{: .label .label-red }[Fantastic Containers and How to Use Them]() (Due Mar 4)
 
 Mar 5
 : **Lecture 4**{: .label .label-blue }Object-oriented Programming
