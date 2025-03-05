@@ -10,7 +10,7 @@ CAP Institute, Spring 2025
 
 ## Important Information
 - Lectures are every Wednesday from 8:00-9:30 PM. ([Zoom Link](https://us02web.zoom.us/j/81062903229))
-- Office Hours will be held every Tuesday from 9:00-10:00 PM. ([Google Meet Link](https://meet.google.com/gie-nsvv-syd))
+- Office Hours are appointment early. Please reach out to [cap4dsresearch101@gmail.com]() to schedule a time.
 
 ## Schedule
 

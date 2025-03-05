@@ -79,7 +79,7 @@ Lecture is mandatory, and students are expected to attend every week. <b><u>If a
 ### Office Hours
 Office hours are dedicated sessions where students can ask questions or request additional help from instructors. Although office hours are optional, they are highly recommended if you require any additional help with any of the content or assignments.
 
-Dedicated office hours will be held weekly on Tuesdays, from 9:00-10:00 PM PT. If you cannot make office hours during the allotted session, please contact the instructor to schedule an alternative time.
+Office hours are appointment early. Please contact the instructor at the course e-mail in order to schedule office hours.
 
 ### Homework
 Homeworks are week-long assignments that are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lecture. Homeworks will be graded on a completion-basis, meaning that students will receive credit as long as they complete the entirety of the assignment with ample effort. Homework solutions will be posted shortly after the following lecture.
