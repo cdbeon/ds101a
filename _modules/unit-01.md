@@ -19,6 +19,7 @@ Feb 26
 : **Lecture 3**{: .label .label-blue }[Data Types & Structures](https://docs.google.com/presentation/d/1qvW4OYhnJ07ERm34bzdJZvgworE1J52qLt2-WjXeRuo/edit?usp=sharing)
   : [Demo](https://drive.google.com/file/d/1iefXi7u5mhyxfZ3lF2eqbqDavaDohjcD/view?usp=sharing)
 : **Homework 3**{: .label .label-red }[Fantastic Containers and How to Use Them](https://classroom.google.com/c/NzM3NzE3NTcyNTE0/a/NzQ5OTk1MDk5MzA0/details) (Due Mar 5)
+  : [Solutions](https://drive.google.com/file/d/1TxqXxPDCekoDXoQNqZYKUUL_n0d44oXk/view?usp=sharing)
 
 Mar 5
 : **Lecture 4**{: .label .label-blue }[Object-oriented Programming](/Users/chandlerbeon/Documents/CAP/DS 101A/demos/Week_3_Demo.ipynb)
