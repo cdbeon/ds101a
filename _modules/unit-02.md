@@ -7,8 +7,7 @@ Mar 12
 : **Homework 4**{: .label .label-red }[Dataset Exploration!](https://classroom.google.com/c/NzM3NzE3NTcyNTE0/a/NzUyNDQwMzgwNzE4/details) (Due Mar 18)
 
 Mar 19
-: **Lecture 6**{: .label .label-blue }Introduction to Pandas II
-  : Demo
+: **Lecture 6**{: .label .label-blue }[Introduction to Pandas II](https://docs.google.com/presentation/d/15lCxbEoaLEkebhx0hLFvYmH6Ygd0hD_-iInJNNzrN40/edit?usp=sharing)
 : **Homework 5**{: .label .label-red } (Due Apr 1)
 
 Mar 26
