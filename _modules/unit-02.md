@@ -8,7 +8,6 @@ Mar 12
 
 Mar 19
 : **Lecture 6**{: .label .label-blue }[Introduction to Pandas II](https://docs.google.com/presentation/d/15lCxbEoaLEkebhx0hLFvYmH6Ygd0hD_-iInJNNzrN40/edit?usp=sharing)
-: **Homework 5**{: .label .label-red } (Due Apr 1)
 
 Mar 26
 : <i>No Class - Spring Break</i>
@@ -16,4 +15,4 @@ Mar 26
 Apr 2
 : **Lecture 7**{: .label .label-blue }Data Cleaning & Exploratory Data Analysis (EDA)
   : Demo
-: **Homework 6**{: .label .label-red } (Due Apr 8)
+: **Homework 5**{: .label .label-red } (Due Apr 8)
