@@ -13,6 +13,5 @@ Mar 26
 : <i>No Class - Spring Break</i>
 
 Apr 2
-: **Lecture 7**{: .label .label-blue }Data Cleaning & Exploratory Data Analysis (EDA)
-  : Demo
-: **Homework 5**{: .label .label-red } (Due Apr 8)
+: **Lecture 7**{: .label .label-blue }[Data Cleaning & Exploratory Data Analysis (EDA)](https://docs.google.com/presentation/d/1W8aSib48hdeDZU-IKr2XOZigE8f1Vjj__0d-_VAtlqI/edit?usp=sharing)
+: **Homework 5**{: .label .label-red }[Starting to Work With Tabular Data](https://classroom.google.com/c/NzM3NzE3NTcyNTE0/a/NzY0MDQ4NjQ5MjU4/details) (Due Apr 8)
